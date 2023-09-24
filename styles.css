@@ -167,3 +167,7 @@ section{
     transition: all .45s ease;
     
 }
+.btn2 span i:hover{
+    transform: scale(1.1) translateY(5px);
+}
+
